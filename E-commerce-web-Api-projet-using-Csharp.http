@@ -1,6 +1,9 @@
-@E_commerce_web_Api_projet_using_Csharp_HostAddress = http://localhost:5296
 
-GET {{E_commerce_web_Api_projet_using_Csharp_HostAddress}}/weatherforecast/
-Accept: application/json
+
+ Get http://localhost:5296
+
 
 ###
+
+Post  http://localhost:5296/hello
+
