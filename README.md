@@ -17,3 +17,8 @@ PS C:\Users\sejan\Downloads\.net\E-commerce-web-Api-projet-using-Csharp> dotnet 
 ```
 PS C:\Users\sejan\Downloads\.net\E-commerce-web-Api-projet-using-Csharp> dotnet run
 ```
+## API Testing with Swaggeer 
+```
+go to this link: http://localhost:5296/swagger/index.html
+```
+
